@@ -3,4 +3,5 @@ def greet(name):
 
 greet("Alice")
 greet("Hello")
+greet("John")
 greet("Bob")
